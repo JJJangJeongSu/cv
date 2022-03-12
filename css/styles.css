@@ -1,0 +1,21 @@
+body {
+  background-color: #EFFFFD;
+  font-family: Verdana;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted #D1D1D1;
+  width: 5%;
+  height: 10px;
+}
+
+h1 {
+  font-family: cursive;
+  color: #54BAB9;
+}
+
+h3 {
+  font-family: cursive;
+  color: #4FD3C4;
+}
